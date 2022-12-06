@@ -1,0 +1,1 @@
+gnatmake solution.adb && ./solution
